@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return (
     <Layout pageTitle="memedreamz">
-      <p>a site for music x art x streaming</p>
+      <p>music x art x streaming</p>
     </Layout>
   )
 }

@@ -24,6 +24,26 @@ import {
                 music
               </Link>
             </li>
+            <li className={navLinkItem}>
+              <Link to="/art" className={navLinkText}>
+                art
+              </Link>
+            </li>
+            <li className={navLinkItem}>
+              <Link to="/stream" className={navLinkText}>
+                stream
+              </Link>
+            </li>
+            <li className={navLinkItem}>
+              <Link to="/poetry" className={navLinkText}>
+                poetry
+              </Link>
+            </li>
+            <li className={navLinkItem}>
+              <Link to="/blog" className={navLinkText}>
+                blog
+              </Link>
+            </li>
           </ul>
         </nav>
         <main>
